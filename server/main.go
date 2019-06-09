@@ -22,6 +22,7 @@ type Message struct {
 }
 
 func main() {
+        fmt.Println("Go Vacations v 0.1")
         fs := http.FileServer(http.Dir("../public"))
         http.Handle("/", fs)
 

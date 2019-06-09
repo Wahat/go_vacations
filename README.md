@@ -1,2 +1,2 @@
 # go_vacations
-A collaborative vacation real-time application using Go
+A collaborative real-time vacation planner application using Go and React
